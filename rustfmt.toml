@@ -1,0 +1,6 @@
+# imports_granularity = "Module"
+imports_granularity = "Item"
+wrap_comments = true
+group_imports = "One"
+edition = "2021"
+
